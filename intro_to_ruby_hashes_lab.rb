@@ -9,8 +9,8 @@ monopoly =
 {:railroads=>
   {
     :pieces=>4},
- :names=>{}  
-}
+ :names=> {}  
+}}
 end
 
 def monopoly_with_third_tier
